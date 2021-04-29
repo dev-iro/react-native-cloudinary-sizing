@@ -1,0 +1,21 @@
+{
+  "name": "react-native-cloudinary-sizing",
+  "version": "1.0.0",
+  "description": "This package will simplify interaction with cloudinary.",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "author": "dev.iro",
+  "repository": {
+    "type": "git",
+    "url":
+    "git+https://https://github.com/dev-iro/react-native-cloudinary-sizing.git"
+  },
+  "keywords": ["cloudinary", "image", "sizing"],
+  "homepage": "https://github.com/dev-iro/react-native-cloudinary-sizing#readme",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-native": "^0.64.0"
+  }
+}
